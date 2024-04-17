@@ -16,10 +16,10 @@
 <body>
   <?php include ('./components/navbar.php') ?>
 
-  <section class="d-flex justify-content-center align-items-center min-vh-100 flex-column">
-    <div class="mx-auto">
-      <div class="row">
-        <div class="col-sm-2">
+  <section class="d-flex position-absolute pt-5 top-0 min-vh-100 align-items-center justify-content-center min-vw-100">
+    <div class="container">
+      <div class="d-flex flex-md-row flex-column justify-content-center align-items-center gap-5">
+        <div style="">
           <div class="card shadow-lg">
             <div class="card-header  text-center">
               <h5 class="card-title">self discover escape</h5>
@@ -38,86 +38,68 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-2">
-          <div class="card shadow-lg">
-            <div class="card-header text-center">
-              <h5 class="card-title">self discover escape</h5>
-              <p class="card-text">- 1 person -</p>
-            </div>
-            <div class="card-body">
-              <ul>
-                <li>1 day</li>
-                <li>include consumtion</li>
-                <li>all destination same price</li>
-                <li>with profesional tour guide</li>
-              </ul>
-            </div>
-            <div class="card-footer text-center">
-              Rp. 275.000,00
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-2">
-          <div class="card shadow-lg">
-            <div class="card-header text-center">
-              <h5 class="card-title">self discover escape</h5>
-              <p class="card-text">- 1 person -</p>
-            </div>
-            <div class="card-body">
-              <ul>
-                <li>1 day</li>
-                <li>include consumtion</li>
-                <li>all destination same price</li>
-                <li>with profesional tour guide</li>
-              </ul>
-            </div>
-            <div class="card-footer text-center">
-              Rp. 275.000,00
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-2">
-          <div class="card shadow-lg">
-            <div class="card-header text-center">
-              <h5 class="card-title">self discover escape</h5>
-              <p class="card-text">- 1 person -</p>
-            </div>
-            <div class="card-body">
-              <ul>
-                <li>1 day</li>
-                <li>include consumtion</li>
-                <li>all destination same price</li>
-                <li>with profesional tour guide</li>
-              </ul>
-            </div>
-            <div class="card-footer text-center">
-              Rp. 275.000,00
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-2">
-          <div class="card shadow-lg">
-            <div class="card-header text-center">
-              <h5 class="card-title">self discover escape</h5>
-              <p class="card-text">- 1 person -</p>
-            </div>
-            <div class="card-body">
-              <ul>
-                <li>1 day</li>
-                <li>include consumtion</li>
-                <li>all destination same price</li>
-                <li>with profesional tour guide</li>
-              </ul>
-            </div>
-            <div class="card-footer text-center">
-              Rp. 275.000,00
-            </div>
-          </div>
-        </div>
 
-      </div>
+        <div style="">
+          <div class="card shadow-lg">
+            <div class="card-header  text-center">
+              <h5 class="card-title">self discover escape</h5>
+              <p class="card-text">- 1 person -</p>
+            </div>
+            <div class="card-body">
+              <ul>
+                <li>1 day</li>
+                <li>include consumtion</li>
+                <li>all destination same price</li>
+                <li>with profesional tour guide</li>
+              </ul>
+            </div>
+            <div class="card-footer text-center">
+              Rp. 275.000,00
+            </div>
+          </div>
+        </div>
+        <div style="">
+          <div class="card shadow-lg">
+            <div class="card-header  text-center">
+              <h5 class="card-title">self discover escape</h5>
+              <p class="card-text">- 1 person -</p>
+            </div>
+            <div class="card-body">
+              <ul>
+                <li>1 day</li>
+                <li>include consumtion</li>
+                <li>all destination same price</li>
+                <li>with profesional tour guide</li>
+              </ul>
+            </div>
+            <div class="card-footer text-center">
+              Rp. 275.000,00
+            </div>
+          </div>
+        </div>
+        <div style="">
+          <div class="card shadow-lg">
+            <div class="card-header  text-center">
+              <h5 class="card-title">self discover escape</h5>
+              <p class="card-text">- 1 person -</p>
+            </div>
+            <div class="card-body">
+              <ul>
+                <li>1 day</li>
+                <li>include consumtion</li>
+                <li>all destination same price</li>
+                <li>with profesional tour guide</li>
+              </ul>
+            </div>
+            <div class="card-footer text-center">
+              Rp. 275.000,00
+            </div>
+          </div>
+        </div>
     </div>
-  </section>
+    </div>
+</section>
+
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
