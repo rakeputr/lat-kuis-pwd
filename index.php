@@ -15,11 +15,13 @@
 
 <body>
   <?php include ('./components/navbar.php') ?>
-
-  <section class="d-flex justify-content-center align-items-center min-vh-100 flex-column">
-    <div class="mx-auto">
+  <div>
+    <h1 class="text-white text-bold text-center mt-2">PILIHAN PAKET</h1>
+  </div>
+  <section class="d-flex justify-content-center align-items-center min-vh-100 flex-column min-vw-100">
+    <div class="container">
       <div class="row">
-        <div class="col-sm-2">
+        <div class="col-sm">
           <div class="card shadow-lg">
             <div class="card-header  text-center">
               <h5 class="card-title">self discover escape</h5>
@@ -38,7 +40,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-2">
+        <div class="col-sm">
           <div class="card shadow-lg">
             <div class="card-header text-center">
               <h5 class="card-title">self discover escape</h5>
@@ -57,7 +59,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-2">
+        <div class="col-sm">
           <div class="card shadow-lg">
             <div class="card-header text-center">
               <h5 class="card-title">self discover escape</h5>
@@ -76,7 +78,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-2">
+        <div class="col-sm">
           <div class="card shadow-lg">
             <div class="card-header text-center">
               <h5 class="card-title">self discover escape</h5>
@@ -95,7 +97,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-2">
+        <div class="col-sm">
           <div class="card shadow-lg">
             <div class="card-header text-center">
               <h5 class="card-title">self discover escape</h5>

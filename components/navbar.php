@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-toggleable-md bg-body-tertiary">
+<nav style="z-index: 1000;" class="navbar navbar-expand-lg navbar-toggleable-md bg-body-tertiary position-static">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
       <i class="fa-solid fa-poo"></i>
@@ -10,13 +10,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto min-vws-100">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Home</a>
+          <a class="nav-link active" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="#">Destination</a>
+          <a class="nav-link active" href="destination.php">Destination</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="#">Reservasion</a>
+          <a class="nav-link active" href="booking.php">Booking</a>
         </li>
       </ul>
     </div>
