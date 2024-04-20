@@ -1,10 +1,8 @@
 <?php include ('./components/header.php') ?>
-<div>
-  <h1 class="text-white text-bold text-center mt-2">PILIHAN PAKET</h1>
-</div>
-<section class="d-flex justify-content-center align-items-center min-vh-100 flex-column min-vw-100">
+<section class="d-flex justify-content-center align-items-center min-vh-100 flex-column max-vw-100">
   <div class="container">
-    <div class="row">
+    <h1 class="text-white text-bold text-center">PILIHAN PAKET</h1>
+    <div class="row mt-4">
       <div class="col-sm">
         <div class="card shadow-lg">
           <div class="card-header  text-center">
