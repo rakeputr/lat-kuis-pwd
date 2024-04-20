@@ -1,4 +1,8 @@
-<?php include ('./components/header.php') ?>
+<?php 
+  $title = "home";
+  include ('./components/header.php');
+?>
+
 <section class="d-flex justify-content-center align-items-center min-vh-100 flex-column max-vw-100">
   <div class="container">
     <h1 class="text-white text-bold text-center">PILIHAN PAKET</h1>

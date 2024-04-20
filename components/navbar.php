@@ -11,13 +11,13 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto min-vws-100">
           <li class="nav-item">
-            <a class="nav-link active js-scroll-trigger" href="index.php">Home</a>
+          <a class="nav-link <?= ($title == "home") ? "active": "" ?> js-scroll-trigger" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="destination.php">Destination</a>
+            <a class="nav-link <?= ($title == "destination") ? "active": "" ?>" href="destination.php">Destination</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="booking.php">Booking</a>
+            <a class="nav-link <?= ($title == "booking") ? "active": "" ?>" href="booking.php">Booking</a>
           </li>
         </ul>
       </div>

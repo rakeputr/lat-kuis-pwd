@@ -1,4 +1,8 @@
-<?php include ('./components/header.php') ?>
+<?php 
+  $title = "booking";
+  include ('./components/header.php');
+?>
+
 <h1 class="text-white text-bold text-center mt-2">KELANA'S RESERVATION FORM</h1>
 <section class="d-flex w-100 min-vw-100 justify-content-center">
   <form id="booking" method="POST" action="reservasion.php">

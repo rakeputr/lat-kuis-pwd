@@ -2,6 +2,7 @@ body {
   background-color: #64a19d;
 }
 
-a:hover {
-  color: #64a19d;
+a.active
+{
+  color: #64a19d !important;
 }

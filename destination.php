@@ -1,6 +1,7 @@
-<?php include ('./components/header.php') ?>
-
-
+<?php 
+  $title = "destination";
+  include ('./components/header.php');
+?>
 
 <section class="d-flex justify-content-center align-items-center min-vh-100 flex-column min-vw-100 position-absolute">
   <div class="container" style="width:90%">
