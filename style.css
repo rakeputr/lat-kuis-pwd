@@ -2,10 +2,6 @@ body {
   background-color: #64a19d;
 }
 
-.primary-btn {
-  background-color: #64a19d;
-}
-
-.active {
-  color: #467370;
+a:hover {
+  color: #64a19d;
 }
